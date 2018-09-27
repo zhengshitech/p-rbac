@@ -1,2 +1,6 @@
 rootProject.name = 'p-rbac'
 include 'server'
+include 'rbac-client-api'
+include 'rbac-restful-api'
+include 'rbac-biz'
+
